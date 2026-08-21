@@ -16,3 +16,4 @@ Dashboard estatístico desenvolvido em Python com Streamlit para análise explor
 - NumPy
 - SciPy
 - Matplotlib
+https://dashboard-tempos-viagem.streamlit.app/
